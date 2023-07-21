@@ -15,3 +15,6 @@
 
 ![ASG diagram(s).png](images%2FASG%20diagram%28s%29.png)
 
+## Process
+
+![diagram of AWS.png](images%2Fdiagram%20of%20AWS.png)
